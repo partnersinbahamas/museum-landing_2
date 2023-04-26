@@ -1,4 +1,17 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+NAMU 2 landing page.
+
+Website for organizing cultural and artistic events, such as:
+
+- Curated exhibition “Angels”
+  The exhibition project "Angels" is a landmark for Ukrainian culture and at the same time the largest...
+
+- Art of the XX century. — XXI Art.
+  Significant works of Alla Gorskoy, Mikoly Samokish, Fyodor Krichevsky and others.
+
+  Technologies: 
+  - HTML
+  - CSS
+  - SASS
+  - BEM
+
+[DEMO LINK](https://partnersinbahamas.github.io/museum-landing_2/)
