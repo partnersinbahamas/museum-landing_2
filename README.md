@@ -15,3 +15,5 @@ Website for organizing cultural and artistic events, such as:
   - BEM
 
 [DEMO LINK](https://partnersinbahamas.github.io/museum-landing_2/)
+
+[Figma design](https://www.figma.com/file/HL3XGt5ZatvJoYBhOaWY5x/museum-prototype?node-id=323%3A1957)
